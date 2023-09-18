@@ -1,2 +1,2 @@
-# Project
-My public codes
+# My First Project
+My public codes for my profile.
